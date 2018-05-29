@@ -164,7 +164,7 @@
 
 
 <div class="nav-right">
-  <img src="./images/451px-Tata_logo.svg.png" class="novelis"/>
+  <img src="./images/451px-Tata_Steel_logo.svg.png" class="novelis"/>
 </div>
 
 
