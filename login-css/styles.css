@@ -1,0 +1,372 @@
+/* LETS RESET */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-color:#fff;
+}
+ol, ul {
+	list-style: none;
+	margin-bottom: 20px;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	color: #666;
+	margin: 0;
+	background: #FFF;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	color: #666;
+	margin: 0;
+	background: #FFF;
+}
+
+.header {
+	background: url("../imgs/header-bg.jpg") no-repeat center top #061e3e;
+	height: 100px;
+}
+
+.header .inner {
+	margin: 0 auto;
+	display: block;
+	max-width: 970px;
+	padding: 0 20px;
+}
+
+.header img {
+	float: left;
+}
+
+.header h1 {
+	color: #FFF;
+	font-size: 24px;
+	margin: 36px 0 0 20px;
+	float: left;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+	overflow: hidden;
+	display: block;
+	margin: 0 auto;
+	max-width: 970px;
+	padding: 0px 20px;
+	position: relative;
+	width:100%;
+}
+#primary {
+border-right: none;
+}
+
+#navigation {
+left: 50%;
+margin-left: -480px;
+width: 960px;
+height: 30px;
+margin-top: -39px;
+position: absolute;
+}
+
+.sidebar a .description , .description {
+	font-size: 14px;
+	color: #666666;
+	}
+
+.clearfix {
+display: block;
+}
+
+#navigation #primary li {
+float: left;
+margin: 0;
+padding: 0;
+width: 160px;
+}
+
+#navigation #primary a {
+font-family: Arial, Helvetica, sans-serif;
+font-color: white;
+font-size: 13px;
+display: block;
+text-decoration: none;
+text-align: center;
+margin-right: 1px;
+line-height: 39px;
+background: url("../images/bg-li-shadow.png") repeat-x scroll center bottom #2175BF;
+background-image: url(http://dev-clientit-lx02.amdc.mckinsey.com/LOPs/sample201/sites/all/themes/whymck/images/bg-li-shadow.png);
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-attachment: scroll;
+background-position-x: 50%;
+background-position-y: 100%;
+background-origin: initial;
+background-clip: initial;
+background-color: #2175BF;
+border: none;
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-width: initial;
+border-color: initial;
+}
+
+#navigation #primary a {
+color: white !important;
+font-weight: bold !important;
+}
+
+#navigation #primary li a.active, #navigation #primary li a.active-trail {
+background-image: url(http://dev-clientit-lx02.amdc.mckinsey.com/LOPs/sample201/sites/all/themes/whymck/images/bg-li-shadow.png);
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-attachment: scroll;
+background-position-x: 50%;
+background-position-y: 100%;
+background-origin: initial;
+background-clip: initial;
+background-color: #5293CD;
+}
+
+.sidebar {
+	float: left;
+	width: 310px;
+	margin: 0 30px 0 10px;
+	
+}
+
+div .sidebar .narrow .dotted, .dotted {
+	width: 240px !important;
+	border-left:dotted #999 1px;
+
+}
+
+
+.narrow, div .sidebar .narrow {
+	width: 225px;
+	margin-left: 0px;
+	padding-left: 25px;
+}
+
+
+
+
+.grey {
+	color: #999999;
+}
+
+ h3{
+	color: #ff6000;
+	font-size: 16px;
+	padding-bottom: 15x;
+	font-weight:bold;
+}
+
+.note { 
+
+padding:15px;
+line-height:18px;
+}
+
+.note a {
+	color: #00aced;
+	text-decoration:none;
+}
+.profile, .sidebar li .profile{
+	float:left;
+	padding-right:15px;
+	width:65px;
+	height:75px;
+	border:none;
+}
+
+.sidebar .runtime {
+	color: #AAA;
+	font-family: Georgia, Helvetica, sans-serif;
+	display: block;
+	font-size: 12px;
+	margin: px 0 0;
+}
+
+ .sidebar .video-links .download a, .download {
+	color: #00aced;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	display:inline;
+	border:none;
+	margin-bottom:10px;
+	
+	
+}
+
+.sidebar .video-links .dotted .download a, .download {
+	color: #00aced;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	display:inline;
+	border:none;
+	margin-bottom:10px;
+	
+	
+}
+
+div .download a
+{
+	display:block;
+	background-image:url('../imgs/icon-download.png');
+	background-repeat:no-repeat;
+	background-size:12px 12px;
+	padding-left:18px;
+	padding-right:5px;
+	
+}
+
+div .download
+
+{display:block;
+padding-bottom: 10px;}
+
+.linecolor {color:#999999; padding-right:5px;}
+
+
+
+.sidebar .video-links a {
+	color: #999;
+	display: block;
+	font-size: 1.3em;
+	text-decoration: none;
+	line-height: 1.42em;
+	transition: color .5s;
+	-moz-transition: color .5s; /* Firefox 4 */
+	-webkit-transition: color .5s; /* Safari and Chrome */
+	-o-transition: color .5s; /* Opera */
+}
+
+.sidebar li .noborder, .noborder {
+	border: none;
+	border-top: none !important;
+	margin-bottom: 8px !important;
+	}
+
+.sidebar .video-links a .speaker, .speaker {
+color: #999;
+
+line-height: 15px;
+font-size: 14px; line-height: 15px !important;
+
+font-style:normal;
+}
+
+
+
+
+
+
+
+
+hr {
+	margin-bottom: 15px;
+	margin-top:15px;
+	border: 1px dotted #ff9000;
+}
+
+.sidebar li:last-child a {
+	border-bottom: none;
+}
+
+.media-container {
+	margin: 0 auto;
+float: none;
+}
+#jp_container_1 {
+	display: none;
+}
+#video-player object {
+	border: 1px solid #DDD;
+}
+
+#video-player {
+	overflow: hidden;
+	margin-bottom: 20px;
+	position: relative;
+	right: 0;
+	margin-top:0px !important;
+}
+
+#footer {
+  clear: both;
+  max-width: 984px;
+  margin: 20px auto 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-top: 2px solid #EEE;
+  padding: 3px 0px;
+}
+
+#footer #copyright {
+  font-size: .846em;
+  width: 23.438%;
+  text-align: right;
+  float: right;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8d8d8d;
+}
+
+/*p.float{margin: 0px !important;
+padding: 20px;
+width: 360px;
+background-color: #f1f1f1 !important;
+background-image: none !important;
+}
+
+input#submit, #submit{background-color: #0065bd;
+color: #fff;
+font-size: 15px;
+}
+
+div.banner{height:400px !important; background-image:none !important;}
+
+.login-content{margin-top:40px !important;}
+input, #input{width: 200px;
+margin-left: 10px;
+height: 40px;
+box-shadow: none;
+border: none;
+border-radius: 4px;}*/
+
+	div.vjs-big-play-button{margin: 0 auto !important;
+position: relative !important;
+top: 40% !important;}
+
+div.video{
+	position: relative;
+margin: 30px auto;
+text-align: center;
+display: table;
+}
