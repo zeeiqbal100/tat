@@ -10,7 +10,7 @@
   <div class="darken" style="background-color:rgba(0,0,0,.4)"></div>
   <div class="wrapper">
     <div class="featured-copy text-hero-m content -left">
-      <h1 class="headline">Basic materials perspectives</h1>
+      <h1 class="headline">Basic materials perspectives and qualifications</h1>
 
     </div>
   </div>
